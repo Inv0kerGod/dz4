@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # apps 
     "apps.settings",
     "apps.news",
+    "apps.todolist",
     #rest
     'rest_framework',
 ]
