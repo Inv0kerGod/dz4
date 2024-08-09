@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "apps.todolist",
     #rest
     'rest_framework',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [

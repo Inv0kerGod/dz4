@@ -6,3 +6,18 @@ class TaskSerializer(serializers.ModelSerializer):
     class Meta:
         model = TodoList
         fields = ['title','description','completed','created']
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
